@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hello Kitty Quiz</string>
+    <string name="question_1">Hello Kittys Boyfriend is called Dear Daniel</string>
+    <string name="question_2">Hello Kittys favorite food is apple pie</string>
+    <string name="question_3">Hello Kitty has robbed 4 banks in the past 2 months</string>
+    <string name="true_string">TRUE</string>
+    <string name="false_string">FALSE</string>
+    <string name="correct_string"> THIS IS CORRECT!</string>
+    <string name="incorrect_string"> THIS IS INCORRECT!</string>
+    <string name="next_button">NEXT</string>
+    <string name="prev_button">PREV</string>
+    <string name="warning_text">YOU ARE CHEATING</string>
+    <string name="show_answer_button">SHOW ANSWER</string>
+    <string name="cheat_button">CHEAT</string>
+    <string name="judgement_string">YOU HAVE CHEATED</string>
+</resources>
